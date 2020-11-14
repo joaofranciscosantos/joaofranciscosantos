@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![](./AWS-SolArchitect-Associate.png)](https://www.youracclaim.com/badges/dbbbeb59-9863-4670-8def-c5647f2716d0)
 [![Linkedin](./linkedin.svg) ](https://www.linkedin.com/in/joaofranciscosantos)
