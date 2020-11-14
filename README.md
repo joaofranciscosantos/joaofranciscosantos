@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin](https://www.iconfinder.com/icons/571110/logo_in_linked_linkedin_social_icon)](https://www.linkedin.com/in/joaofranciscosantos)
+[![Linkedin](./linkedin.svg) ](https://www.linkedin.com/in/joaofranciscosantos)
